@@ -1,6 +1,6 @@
 # STC TV Customer Experience Enhancement
 
-This repository contains code and documentation for a project aimed at enhancing the customer experience on stc TV through data analysis, predictive modeling, and recommendation systems.
+This repository contains code and documentation for a project aimed at enhancing the customer experience on stc TV through data analysis, predictive modeling, and recommendation systems, as part of STC's virtual work experince offered through Misk.
 
 ## Project Overview
 
